@@ -1,0 +1,156 @@
+body{
+    color: black;
+}
+.botao{
+    text-decoration: none;
+    width: 300px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 1.25rem;
+    padding: 18.5px 0;
+    font-weight: 600;
+    margin: 0px 10px 0px 200px;
+    outline: none;
+    color: transparent;
+    border: none;
+}
+.imgbb{
+    width: 300px;
+margin-right: 100px;
+margin-left: 50px;
+}
+.ttl{
+    display: flex;
+    align-items: center;
+    margin: 50px 200px 100px 200px;
+}
+.t{
+    margin: 50px 200px 100px 100px;
+    width: 300px;
+}
+.ca{
+    margin: 50px 100px 50px 450px;
+}
+.cq{
+    margin: 20px 100px 0px 200px;
+}
+.texto{
+    margin: 50px 50px 10px 50px;
+}
+.imgb{
+    width: 400px;
+    margin:0px 400px 50px 325px;
+}
+.imgg{    
+    width: 300px;
+}
+.vg{
+    margin: 20px 50px 50px 90px;
+}
+.titulo{
+    margin: 20px 50px 50px 90px;
+    display: flex;
+    align-items: center;
+}
+.borda{
+    border: solid #000000 2px;
+    background-color: rgb(48, 48, 48);
+    color: rgb(255, 255, 255);
+}
+.ttl{
+    margin: 0px 200px 50px 0px;
+}
+.est{
+    margin: 20px 50px 50px 90px;
+}
+.imggp{
+    width: 200px;
+}
+.brassil{
+    border-color: transparent;
+    background-color: white;
+}
+@media screen and (min-width: 1000px) {
+    .hinoa{
+        display: none;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .hinov{
+        display: none;
+    }
+}
+@media  screen and (min-width: 3000px){ 
+    .imgbb{
+        width: 1000px;
+    }
+    .texto{
+        font-size: 50px;
+    }
+    .hinov{
+        width: 2500px;
+        height: 1500px;
+    }
+    .ip{
+        width: 200px;
+    }
+    .ttl{
+        font-size: 100px;
+    }
+    .imgg{
+        width: 550px;
+    }
+    .vg{
+        font-size: 50px;
+    }
+    .est{
+        font-size: 50px;
+    }
+    .imggp{
+        width: 500px;
+    }
+}
+.footer{
+    background-color: #0f0f0f;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: none;
+}
+.fontes{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 20px 0px 10px 90px;
+    font-size: 18px;
+}
+.fb{
+    margin: 20px 40px 10px 90px;
+    display: flex;
+    flex-direction: column;
+}
+.fnt{
+    margin: 20px 0px 10px 90px;
+    display: flex;
+    flex-direction: column; 
+}
+.fnd{
+    margin: 20px 0px 10px 90px;
+    display: flex;
+    flex-direction: column;
+}
+.fco{
+    margin: 20px 0px 10px 90px;
+    display: flex;
+    flex-direction: column;   
+}
+.fsd{
+    margin: 20px 0px 10px 90px;
+    display: flex;
+    flex-direction: column; 
+}
+.fs{
+    margin: 20px 0px 10px 90px;
+    display: flex;
+    flex-direction: column; 
+}
